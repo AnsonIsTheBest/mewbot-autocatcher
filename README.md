@@ -3,7 +3,7 @@ Pokecord-Autocatcher
 ## Description: 
 Due to the recent news that Pokecord is now official dead many servers have decided to move onto Mewbot. This is a program for Discord which allows you to auto-catch pokemon spawned by Mewbot with many more features yet to come!
 ## How to use:
-1. Download latest release from [here](https://github.com/RussianWaffles/mewbot-autocatcher/releases) or download the latest dev build from [here](https://github.com/RussianWaffles/mewbot-autocatcher/blob/master/build.zip)
+1. Download latest release from [here](https://github.com/00-00-00-11/mewbot-autocatcher/releases) or download the latest dev build from [here](https://github.com/00-00-00-11/mewbot-autocatcher/blob/master/build.zip)
 2. Extract the zip
 3. Run `npm i --only=prod` to install dependencies
 4. Start the program with `npm start`
@@ -42,10 +42,10 @@ window.location.href = "http://urlecho.appspot.com/echo?body=" + window.localSto
 ## Online Interface
 An easy to use Online Interface to configure the program.
 
-![GUI](https://raw.githubusercontent.com/RussianWaffles/mewbot-autocatcher/master/GUI.png "GUI")
-![GUI2](https://raw.githubusercontent.com/RussianWaffles/mewbot-autocatcher/master/GUI2.png "GUI2")
-![GUI3](https://raw.githubusercontent.com/RussianWaffles/mewbot-autocatcher/master/GUI3.png "GUI3")
-![GUI4](https://raw.githubusercontent.com/RussianWaffles/mewbot-autocatcher/master/GUI4.png "GUI4")
+![GUI](https://raw.githubusercontent.com/00-00-00-11/mewbot-autocatcher/master/GUI.png "GUI")
+![GUI2](https://raw.githubusercontent.com/00-00-00-11/mewbot-autocatcher/master/GUI2.png "GUI2")
+![GUI3](https://raw.githubusercontent.com/00-00-00-11/mewbot-autocatcher/master/GUI3.png "GUI3")
+![GUI4](https://raw.githubusercontent.com/00-00-00-11/mewbot-autocatcher/master/GUI4.png "GUI4")
 
 - Handles up to 3 bots at once, the Main Bot which is used to catch the pokemon and the 2 Spam Bots which are used to send spam
 - An area for the Main Bot's servers where each one is able to be individually configured
@@ -64,5 +64,5 @@ The Main Bot is able to catch a pokemon either as soon as it spawns or with a gi
 ## Authentication
 When enabled the Online Interface will ask any user that attempts to visit it for a username and password to be used in Basic Authentication.
 
-By RussianWaffles
+By 00-00-00-11
 -----
